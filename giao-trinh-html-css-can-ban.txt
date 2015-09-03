@@ -1,0 +1,75 @@
+Lập trình Frontend - HTML, CSS
+	Session 1: Nguồn gốc và bản chất của HTML, CSS
+		Khái niệm HTML và sự ra đời của CSS
+			Nguồn gốc HTML: Presentation HTML
+			Sự "tiến hóa" của HTML: Semantic HTML & CSS 
+		HTML & CSS trong thế giới thực
+			View Source: xem mã nguồn trang web
+			Mẹo dùng meta charset="utf-8"
+			Nút F12, chức năng inspect
+		Thuộc tính của các thẻ HTML
+			Semantic 
+			Default CSS (style, hình thức, bề ngoài, thể hiện
+			Default behavior (action, event, hành vi, sự kiện)
+		Chiếc đũa thần CSS: làm cho thẻ HTML này nhìn giống thẻ HTML khác
+			Ảnh: thể hiện sự biến hóa vật này thành vật khác
+	Session 2: Các thẻ HTML thường gặp
+		Một số thẻ HTML quan trọng & thường gặp: phần 1
+			Thẻ h1, h2, h3
+			Thẻ p 
+			Thẻ ul, li & ol, li
+		Một số thẻ HTML quan trọng & thường gặp: phần 2
+			Thẻ form, input, select, option, label, fieldset
+		Một số thẻ HTML quan trọng & thường gặp: phần 3
+			Thẻ table, tr, td, th, thead, tbody, tfoot
+		Một số thẻ HTML thường gặp khác
+			Thẻ head, title, meta
+			Thẻ style, script
+		Vòng đời của một trang web 
+			F12 và tab Networks
+			Khái niệm request và thanh URL (thanh địa chỉ)
+			Khái niệm response
+		Một số thẻ HTML đặc biệt: các thẻ dùng tạo request bằng tay	
+			Thẻ a: link tới các địa chỉ web
+			Địa chỉ tương đối và địa chỉ tuyệt đối
+			Thẻ form, input type=button và input type=submit
+		Một số thẻ HTML đặc biệt: các thẻ tự tạo ra request - phần 1
+			Thẻ link 
+			Thẻ script
+			Thẻ img
+			Thẻ iframe
+		Bài đọc thêm: tại sao hacker lại ưa thích các thẻ tự tạo request 
+			Cứ cái gì có chữ "tự" là hacker ưa chuộng!
+		Một số thẻ HTML đặc biệt: các thẻ tự tạo ra request - phần 2
+			Thẻ frame
+	Session 3: Các công cụ soạn thảo HTML, CSS và cách dùng CSS Selector
+		Công cụ soạn thảo HTML
+			Offline: Notepad, Notepad++, Sublime Text
+			Online: jsbin, codepen
+		Mẹo gõ nhanh - phần 1
+			Lorem 
+			Code hint
+		CSS Selector là gì? Các CSS Selector căn bản
+			Selector = Bộ chọn
+			HTML Selector
+			Cascading or Contextual Selector 
+		id và áp dụng trong HTML, CSS
+			dùng thẻ a và id để di chuyển trong một trang web
+			ID Selector 
+		Class trong HTML và CSS
+			dùng nhiều class trong HTML
+			Class Selector 
+			chú ý phân biệt dấu cách trong HTML và trong CSS
+			khi nào dùng class, khi nào dùng id
+		Những thuộc tính CSS thường gặp - phần 1
+			Nhắc lại về F12 và CSS mặc định
+			color và khái niệm mã màu
+			font và khái niệm pixel
+		Phương pháp học tập 
+			Ý nghĩa của thực hành
+		Thực hành 
+			1 bài tập 
+
+		
+		
+	

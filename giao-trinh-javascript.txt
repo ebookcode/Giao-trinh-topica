@@ -1,4 +1,8 @@
 Giáo trình Javascript căn bản.
+  Nhập môn Javascript
+    Javascript có thể làm được gì
+    Viết tắt: Javascript = JS
+    Điều kiện để học JS: cần có kiến thức căn bản về HTML, CSS
   Thiết lập môi trường lập trình
     Offline: Notepad, Notepad++
     Online: jsbin

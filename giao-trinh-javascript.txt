@@ -25,8 +25,8 @@ Giáo trình Javascript căn bản.
   Lệnh điều kiện if, bộ lộc, cửa soát vé, "trí tuệ" của máy tính
     If = nếu, nếu như
     Phân biệt =, == và ===
-    Các trường hợp khác nhau trong cú pháp lệnh if
-    Một trường hợp đặc biệt của if, lệnh switch
+    Khái niệm flow chart, lệnh else, lệnh if lồng nhau, lệnh elseif
+    Lệnh if viết tắt, lệnh switch
   Một số hình thức nhập khác
     confirm
     prompt    

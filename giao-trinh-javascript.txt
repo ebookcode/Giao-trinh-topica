@@ -19,9 +19,6 @@ Giáo trình Javascript căn bản.
     Xuất qua hộp thoại: alert
     Xuất trực tiếp: document.write
     Xuất vào giao diện web: document.getElementById
-  Một số hình thức nhập khác
-    confirm
-    prompt
   Toán tử
     Các toán tử thông dụng: +, -, *, /
     Các toán tử khác: %
@@ -30,14 +27,18 @@ Giáo trình Javascript căn bản.
     Phân biệt =, == và ===
     Các trường hợp khác nhau trong cú pháp lệnh if
     Một trường hợp đặc biệt của if, lệnh switch
+  Một số hình thức nhập khác
+    confirm
+    prompt    
   Vòng lặp for, while, "sức mạnh" của máy tính
-    Vòng lặp while
+    Vòng lặp while, lệnh điều kiện và kiểu logic
     Trường hợp đặc biệt của vòng lặp while: vòng lặp for
   Hàm
     Khái niệm DRY
     Khái niệm và sự ra đời của hàm
     Tham số của hàm
     Đệ quy và vòng lặp
+    Event trong JS, cách gọi hàm và ứng dụng trong nhập liệu thông qua getElementById
   Cơ bản về đối tượng
     Khai báo và sử dụng các thành phần của một đối tượng
   Callback

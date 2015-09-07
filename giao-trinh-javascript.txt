@@ -32,7 +32,8 @@ Giáo trình Javascript căn bản.
     Cach phong va xu ly vong lap vo tan
     Vong lap for, mang, lenh dieu kien và kiểu logic
   Hàm
-    Ham va tham so ham la gi, nguoi tao ham va nguoi dung ham la gi => tai sao va khi nao phai dung ham
+    Ham va tham so ham la gi, nguoi tao ham va nguoi dung ham la gi 
+      8:08 => tai sao va khi nao phai dung ham
     Scope: pham vi cua mot bien
     Đệ quy và vòng lặp
     Event trong JS, cách gọi hàm và ứng dụng trong nhập liệu thông qua getElementById

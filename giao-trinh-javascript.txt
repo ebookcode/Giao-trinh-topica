@@ -34,9 +34,9 @@ Giáo trình Javascript căn bản.
   Hàm
     Ham va tham so ham la gi, nguoi tao ham va nguoi dung ham la gi 
       8:08 => tai sao va khi nao phai dung ham
-    Scope: pham vi cua mot bien
+    Scope: pham vi cua mot bien va khai bao var
     Đệ quy và vòng lặp
-    Event trong JS, cách gọi hàm và ứng dụng trong nhập liệu thông qua getElementById
+    Khai niem Event trong JS, cach gan ham vao mot event tren mot phan tu va nhap lieu thong qua getElementById
   Cơ bản về đối tượng
     Khai báo và sử dụng các thành phần của một đối tượng
   Callback

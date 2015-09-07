@@ -27,16 +27,12 @@ Giáo trình Javascript căn bản.
     Phân biệt =, == và ===
     Khái niệm flow chart, lệnh else, lệnh if lồng nhau, lệnh elseif
     Lệnh if viết tắt, lệnh switch
-  Một số hình thức nhập khác
-    confirm
-    prompt    
   Vòng lặp for, while, "sức mạnh" của máy tính
     Khái niệm DRY, vòng lặp while, lệnh điều kiện va vong lap vo tan
-    Vong lap, lenh dieu kien và kiểu logic
-    Trường hợp đặc biệt của vòng lặp while: vòng lặp for
+    Cach phong va xu ly vong lap vo tan
+    Vong lap for, mang, lenh dieu kien và kiểu logic
   Hàm
-    DRY va ham
-    Khái niệm và sự ra đời của hàm
+    DRY và sự ra đời của hàm
     Tham số của hàm
     Đệ quy và vòng lặp
     Event trong JS, cách gọi hàm và ứng dụng trong nhập liệu thông qua getElementById

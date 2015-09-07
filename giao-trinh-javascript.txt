@@ -31,10 +31,11 @@ Giáo trình Javascript căn bản.
     confirm
     prompt    
   Vòng lặp for, while, "sức mạnh" của máy tính
-    Vòng lặp while, lệnh điều kiện và kiểu logic
+    Khái niệm DRY, vòng lặp while, lệnh điều kiện va vong lap vo tan
+    Vong lap, lenh dieu kien và kiểu logic
     Trường hợp đặc biệt của vòng lặp while: vòng lặp for
   Hàm
-    Khái niệm DRY
+    DRY va ham
     Khái niệm và sự ra đời của hàm
     Tham số của hàm
     Đệ quy và vòng lặp

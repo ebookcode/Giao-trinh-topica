@@ -68,8 +68,4 @@ Lập trình Frontend - HTML, CSS
 		Phương pháp học tập 
 			Ý nghĩa của thực hành
 		Thực hành 
-			1 bài tập 
-
-		
-		
-	
+			Một bài tập
